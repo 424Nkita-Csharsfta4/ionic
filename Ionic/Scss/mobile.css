@@ -1,0 +1,107 @@
+@media only screen and (max-width: 992px) {
+  body {
+    margin: 0;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .header {
+    width: 992px;
+  }
+  .header li {
+    font-size: 15px;
+  }
+  .header .header-nav {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .container {
+    width: 992px;
+    padding-left: 15em;
+    padding-right: 15px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .left {
+    width: 748px;
+  }
+  .container li {
+    padding-top: 20em;
+  }
+  .right h1 {
+    font-size: 15px;
+  }
+  .copirlink {
+    margin-left: 17em;
+    margin-right: 17em;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 20px;
+  }
+  p {
+    font-size: 15px;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .header {
+    width: 776px;
+  }
+  .header li {
+    font-size: 15px;
+  }
+  .header .header-nav {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .container {
+    width: 476px;
+    padding-left: 35em;
+    padding-right: 35px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .left {
+    width: 748px;
+  }
+  .card-1, .card-2, .card-3 {
+    padding-top: 10em;
+  }
+  .container li {
+    padding-top: 20em;
+  }
+  .right h1 {
+    font-size: 15px;
+  }
+  .copirlink {
+    margin-left: 17em;
+    margin-right: 17em;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  body {
+    margin-left: 25%;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  body {
+    margin-left: 30%;
+  }
+}
+/*# sourceMappingURL=mobile.css.map */
